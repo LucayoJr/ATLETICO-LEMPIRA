@@ -24,6 +24,7 @@ ul {
 .container {
     width: 90%;
     margin: auto;
+    background-color: rgb(150, 0, 0);
 }
 
 /* Navigation */
